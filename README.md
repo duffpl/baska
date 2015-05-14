@@ -1,7 +1,7 @@
 # Baśka
 Vol. 1 - Perfekcyjna Pani Domu
-Jak żyć (tylko zsh + oh-my-zsh): 
-* curl https://github.com/blazej-pachut-gforces/baska/install.sh | sh
+Jak żyć (tylko zsh + oh-my-zsh):
+* curl https://raw.githubusercontent.com/blazej-pachut-gforces/baska/master/install.sh | sh
 
 Jak nie masz zsh + oh-my-zsh to słabo. No ale trudno. To se doklej do .niemamzshrc:
 
